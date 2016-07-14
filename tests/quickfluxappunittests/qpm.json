@@ -2,7 +2,8 @@
   "name": "",
   "description": "",
   "dependencies": [
-    "com.github.benlau.testable@1.0.2.12"
+    "com.github.benlau.testable@1.0.2.12",
+    "com.github.benlau.quickflux@1.0.5.4"
   ],
   "license": "NONE",
   "pri_filename": "",

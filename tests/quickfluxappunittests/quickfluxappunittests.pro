@@ -27,3 +27,6 @@ DISTFILES += \
 HEADERS += \
     tests.h
 
+ROOT_DIR = $$PWD/../../
+
+include($$ROOT_DIR/app/quickfluxapp/quickfluxapp.pri)
