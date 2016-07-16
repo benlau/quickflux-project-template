@@ -5,7 +5,7 @@ CONFIG += c++11
 
 QT += quick qml multimedia
 
-include(app.pri)
+include(quickfluxapp.pri)
 
 SOURCES += main.cpp
 

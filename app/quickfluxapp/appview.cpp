@@ -16,7 +16,7 @@ int AppView::exec()
     dir.mkpath(QStandardPaths::standardLocations(QStandardPaths::TempLocation)[0] + "/preview");
 
     m_engine.addImportPath("qrc:///");
-    m_engine.load(QUrl(QStringLiteral("qrc:/main.qml")));
+    m_engine.load(QUrl(QStringLiteral("qrc:/App/main.qml")));
 
     QFAppDispatcher* dispatcher = QFAppDispatcher::instance(&m_engine);
     connect(dispatcher,SIGNAL(dispatched(QString,QJSValue)),
