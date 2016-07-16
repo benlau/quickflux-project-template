@@ -9,7 +9,7 @@ include(app.pri)
 
 SOURCES += main.cpp
 
-ROOT_DIR = $$PWD
+ROOT_DIR = $$PWD/../..
 
 # Default rules for deployment.
 include(deployment.pri)
