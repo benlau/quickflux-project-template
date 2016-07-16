@@ -1,3 +1,5 @@
+QuickFlux Project Template
+==========================
 
 That is a project template to simplify the creation of QuickFlux application with unit tests.
 
@@ -9,6 +11,11 @@ It includes:
 4. AppView C++ Class - Initialize QML environment and listen message from AppDispatcher
 5. Unit Tests with using Testable framework
 
+Usage
+
+1. Clone or download this project to local folder
+2. Extract
+3. Rename the file according to your needs.
 
 File Structure:
 
