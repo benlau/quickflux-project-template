@@ -17,6 +17,12 @@ Usage
 2. Extract
 3. Rename the file according to your needs.
 
+Wizard in Qt Creator
+
+If you want to have a wizard to create a project with using Quick Flux in Qt Creator, you may install this project:
+
+[benlau/qpm-qt-creator-project-template: Qt Creator Project Templates with qpm](https://github.com/benlau/qpm-qt-creator-project-template)
+
 File Structure:
 
 ```
