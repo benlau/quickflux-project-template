@@ -23,11 +23,12 @@ If you want to have a wizard to create a project with using Quick Flux in Qt Cre
 
 [benlau/qpm-qt-creator-project-template: Qt Creator Project Templates with qpm](https://github.com/benlau/qpm-qt-creator-project-template)
 
+This template is free and unencumbered software released into the public domain.
+
 File Structure:
 
 ```
 .
-├── LICENSE
 ├── README.md
 ├── app
 │   └── quickfluxapp
